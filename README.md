@@ -1,2 +1,1 @@
-# alpine-wpcli
-WP-CLI in Alpine
+WP-CLI in Alpine.
